@@ -56,7 +56,7 @@ I’m Rodrigo from México, a developer jr engineer, creative coder and appasion
 <br>
 
 ## 🔨 Recent Projects
-[![Grupos Singularis Website](./assets/RodrigoBannerGithub.PNG)](https://rockzt.github.io/website_singularis_espa-ol/)
+[![Grupos Singularis Website](./assets/GPS.PNG)](https://rockzt.github.io/website_singularis_espa-ol/)
 
 <br>
 <br>
