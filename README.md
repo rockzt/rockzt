@@ -3,7 +3,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/rodrigo-zavala-5996a2104)
 
-Hey there 👋
+Hello there 👋
 
 I’m Rodrigo from México, a developer jr engineer, creative coder and appasionate for tecnologies topics.
 
