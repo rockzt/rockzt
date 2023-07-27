@@ -64,7 +64,7 @@ I’m Rodrigo from México, a developer jr engineer, creative coder and appasion
 ## 💼 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jira,stackoverflow,postman,git,linux,docker,rabbitmq,boostrap,figma,html,js,css,py,mysql,redis,vscode" />
+    <img src="https://skillicons.dev/icons?i=aws,stackoverflow,postman,git,linux,docker,rabbitmq,bootsrap,figma,html,js,css,py,mysql,redis,vscode" />
   </a>
 </p>
 <!--
