@@ -83,3 +83,7 @@ I’m Rodrigo from México, a developer jr engineer, creative coder and appasion
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ->
 <br>
+
+## ☕ Recent Activity
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rockzt&bg_color=312f31&color=a25516&line=4c999e&point=1f7f79&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
