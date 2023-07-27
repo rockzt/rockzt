@@ -56,7 +56,7 @@ I’m Rodrigo from México, a developer jr engineer, creative coder and appasion
 <br>
 
 ## 🔨 Recent Projects
-[![Grupos Singularis Website](./assets/RodrigoBannerGithub.PNG)]()
+[![Grupos Singularis Website](./assets/RodrigoBannerGithub.PNG)](https://rockzt.github.io/website_singularis_espa-ol/)
 
 <br>
 <br>
@@ -64,10 +64,10 @@ I’m Rodrigo from México, a developer jr engineer, creative coder and appasion
 ## 💼 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=jira,stackoverflow,postman,git,linux,docker,rabbitmq,boostrap,figma,html,js,css,py,mysql,redis,vscode" />
   </a>
 </p>
-
+<!--
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
@@ -81,5 +81,5 @@ I’m Rodrigo from México, a developer jr engineer, creative coder and appasion
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-
+->
 <br>
