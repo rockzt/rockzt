@@ -15,7 +15,6 @@ I’m Rodrigo from México, a developer jr engineer, creative coder and appasion
 
 
 ## 📌 Pinned Repositories
-[![Grupos Singularis Website](./assets/RodrigoBannerGithub.PNG)]()
 <br>
 
 <a href="https://github.com/rockzt/python_file_management">
@@ -57,12 +56,17 @@ I’m Rodrigo from México, a developer jr engineer, creative coder and appasion
 <br>
 
 ## 🔨 Recent Projects
-
+[![Grupos Singularis Website](./assets/RodrigoBannerGithub.PNG)]()
 
 <br>
 <br>
 
 ## 💼 Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197)
