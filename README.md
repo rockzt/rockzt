@@ -11,11 +11,11 @@ I’m Rodrigo from México, a developer jr engineer, creative coder and appasion
 - 🌱 I’m currently mastering python -> Django | Flask
 - 👯 I’m looking to collaborate on open source projects related to Javacscript and Python languages
 - 🤔 I’m looking for help with python projects to improve skills
-- ⚡ Fun fact: I love dogs!!
+- ⚡ Fun fact: I love dogs!! 🐶
 
 
 ## 📌 Pinned Repositories
-
+[![Grupos Singularis Website](./assets/RodrigoBannerGithub.PNG)]()
 <br>
 
 <a href="https://github.com/rockzt/python_file_management">
@@ -52,6 +52,12 @@ I’m Rodrigo from México, a developer jr engineer, creative coder and appasion
 <a href="https://github.com/rockzt">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=rockzt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
+
+<br>
+<br>
+
+## 🔨 Recent Projects
+
 
 <br>
 <br>
