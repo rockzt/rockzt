@@ -1,5 +1,5 @@
-<!--[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
--->
+[![Rodrigo's GitHub Banner](./assets/RodrigoBannerGithub.png)]()
+
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/rodrigo-zavala-5996a2104)
 
