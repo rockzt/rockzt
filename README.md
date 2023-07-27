@@ -81,7 +81,7 @@ I’m Rodrigo from México, a developer jr engineer, creative coder and appasion
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-->
+-->
 <br>
 
 ## ☕ Recent Activity
