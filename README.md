@@ -30,7 +30,7 @@ I’m Rodrigo from México, a developer jr engineer, creative coder and appasion
 <br>
 
 <a href="https://github.com/rockzt/f_web">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rockzt&repo=f_web&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rockzt&repo=back_end_cms&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/rockzt/travis-ci-example">
