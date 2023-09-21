@@ -9,7 +9,7 @@ I’m Rodrigo from México, a developer jr engineer, creative coder and appasion
 
 - 🔭 I’m currently working as Developer jr.
 - 🌱 I’m currently mastering python -> Django | Flask
-- 👯 I’m looking to collaborate on open source projects related to Javacscript and Python languages
+- 👯 I’m looking to collaborate on open source projects related to Javascript and Python languages
 - 🤔 I’m looking for help with python projects to improve skills
 - ⚡ Fun fact: I love dogs!! 🐶
 
