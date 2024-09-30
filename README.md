@@ -7,7 +7,7 @@ Hello there 👋
 
 I’m Rodrigo from México, a semi-senior developer engineer, creative coder and appasionate for tecnologies topics.
 
-- 🔭 I’m currently working as Developer jr.
+- 🔭 I’m currently working as  Semi-senior Developer.
 - 🌱 I’m currently mastering python -> Django | Flask
 - 👯 I’m looking to collaborate on open source projects related to Javascript and Python languages
 - 🤔 I’m looking for help with python projects to improve skills
